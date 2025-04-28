@@ -1,4 +1,4 @@
-package com.example.doulirouge
+package com.lokarz.doulirouge
 
 import io.flutter.embedding.android.FlutterActivity
 
