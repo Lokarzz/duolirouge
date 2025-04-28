@@ -83,7 +83,7 @@ class _QAScreenState extends State<QAScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Question ${currentIndex + 1}/${questions.length}'),
+        // title: Text('Question ${currentIndex + 1}/${questions.length}'),
         centerTitle: true,
       ),
       body: Padding(
